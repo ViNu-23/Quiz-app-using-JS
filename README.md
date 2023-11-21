@@ -1,5 +1,9 @@
 # Quiz App Using JS
 This is a simple quiz application built using HTML, CSS, and JavaScript. The app presents a series of questions with multiple-choice answers. Users can select an answer for each question, and the app provides feedback on whether the selected answer is correct or incorrect. After completing the quiz, the user's score is displayed.
+<img width="543" alt="Screenshot 2023-11-21 180718" src="https://github.com/ViNu-23/Quiz-app-using-JS/assets/59360964/ba17521b-119c-4628-9d7d-ee033bbd4ff2">
+<img width="479" alt="Screenshot 2023-11-21 180743" src="https://github.com/ViNu-23/Quiz-app-using-JS/assets/59360964/9593aea3-9888-45a1-9a8d-2a7f026a81cb">
+<img width="508" alt="Screenshot 2023-11-21 180816" src="https://github.com/ViNu-23/Quiz-app-using-JS/assets/59360964/6942f848-67b3-400c-8706-eda48410633e">
+<img width="576" alt="Screenshot 2023-11-21 181024" src="https://github.com/ViNu-23/Quiz-app-using-JS/assets/59360964/3dee7176-7454-400c-ab56-d5e52ba90bda">
 
 # How to Use
 Start Quiz: Upon opening the app, the user can start the quiz by clicking the "Start Quiz" button.
